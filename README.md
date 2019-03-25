@@ -20,7 +20,5 @@ any later version.
 The SUMOFLUX toolbox is distributed in the hope that it will be useful, 
 but WITHOUT ANY WARRANTY; without even the implied warranty of 
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
-See the GNU General Public License for more details.
 
-Refer to gpl.txt for a full description of the GNU General Public
-License (http://www.gnu.org/licenses/)
+Refer to LICENSE or http://www.gnu.org/licenses/ for a full description.
